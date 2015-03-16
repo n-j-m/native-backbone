@@ -1,5 +1,5 @@
 {
-  "name": "native.backbone",
+  "name": "native-backbone",
   "version": "1.0.0",
   "description": "Auto bind backbone.nativeajax to exoskeleton",
   "main": "index.js",
